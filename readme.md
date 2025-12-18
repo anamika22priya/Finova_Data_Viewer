@@ -43,7 +43,7 @@ Application Programming Interfaces (APIs) are built on the backend server and se
 Frontend → API → Backend → Database → Backend → API → Frontend
 
 ## 3.DIAGRAM
-![Flow of data in full-stack applications](/Finova_Data_Viewer/images/fullstack.png)
+![Flow of data in full-stack applications](images/fullstack.png)
 
 ## 4.SCREENSHOTS
 
