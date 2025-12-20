@@ -47,4 +47,19 @@ Frontend → API → Backend → Database → Backend → API → Frontend
 
 ## 4.SCREENSHOTS
 
+### 1.SCREENSHOT OF UI IN BROWSER  
+![Screenshot of UI](images/sc_of_UI.png)
+
+### 2.GIT COMMANDS USED  
+#### 1.INITIALISE GIT:
+![git_initialise](images/initialisegit.png)  
+![git_initialise_2](images/initialisegit2.png)  
+#### 2.GITHUB INITIALISE:  
+![github_initialise](images/github_initialise.png)  
+#### 3. add,commit,push commands used:
+![git_commands1](images/update_htmlcss.png)  
+![git_commands2](images/added_images.png)
+
+
+
 
